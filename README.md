@@ -1,2 +1,9 @@
 # swiftFunctionTools
-the tools of swift(some functions). Example: func split_string(){...}
+the tools of swift(some functions).
+
+```swift
+#example:
+func split_string(){
+  ...
+}
+```
